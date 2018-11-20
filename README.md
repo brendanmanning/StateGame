@@ -10,7 +10,8 @@ StateGame is played in the browser, but is managed by a Nodejs server. Therefore
 
 ## Web Client Setup
 1. Download and unzip on server
-2. Edit `Web/config.js` to http://(your game server URL):3000
+2. Move to webroot (usually /var/www/html/)
+3. Edit `Web/config.js` to http://(your game server URL):3000
 
 ## Play
 1. Open http://(your web server address) in your browser to play
