@@ -19,4 +19,4 @@ StateGame is played in the browser, but is managed by a Nodejs server. Therefore
 1. Open http://(your github pages address) in your browser to play
 2. Create new game
 3. Share link with friends ;)
-4. *** Note: *** Chrome users will have to "Load Unsafe Scripts" as GitHub Pages forces HTTPS, which is not supported by StateGame server.
+4. **Note:** Chrome users will have to "Load Unsafe Scripts" as GitHub Pages forces HTTPS, which is not supported by StateGame server.
