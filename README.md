@@ -9,9 +9,13 @@ StateGame is played in the browser, but is managed by a Nodejs server. Therefore
 3. Start server `forever start index.js`
 
 ## Web Client Setup
-1. Copy contents of Web folder to your webserver
-2. Edit `Web/config.js` to http://(your game server URL):3000
+1. For this repo on GitHub
+2. Go to Settings on your forked repo
+3. Enable GitHub pages (master branch)
+4. Edit `Web/config.js` to http://(your game server URL):3000
+5. Your WebClient is now hosted for free by GitHub :)
 
 ## Play
-1. Open http://(your web server) in your browser to play
-2. Share link with friends ;)
+1. Open http://(your github pages address) in your browser to play
+2. Create new game
+3. Share link with friends ;)
